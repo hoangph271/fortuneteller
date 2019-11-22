@@ -2,7 +2,7 @@
 
 ## And the Fortune teller said...!
 
-> Even though the Camper walks through the valley of the shadow of PEs, she shall fear no evil, for #HHP is with her...!
+> Even though the Camper walks through the valley of the shadow of FEs, she shall fear no evil, for #HHP is with her...!
 
 
 ```javascript
