@@ -9,7 +9,7 @@
 import { smile, dagger, skull, gem } from 'fortune-teller'
 
 const theCamper = Campers['#NMQ']
-  // The lucky charm enhance the brain, not replace it, so...! :"}
+  // The lucky charm enhances the brain, not replaces it, so...! :"}
   .with(skull('🧠'))
   .and(dagger.ofPower())
   .and(smile('#Bravely'))
