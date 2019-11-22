@@ -2,7 +2,7 @@
 
 ## And the Fortune teller said...!
 
-> Even though Lil Homie walks through the valley of the shadow of PEs, he shall fear no evil, for #HHP is with her...!
+> Even though Lil Homie walks through the valley of the shadow of PEs, he shall fear no evil, for #HHP is with him...!
 
 
 ```javascript
