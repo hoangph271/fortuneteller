@@ -2,13 +2,13 @@
 
 ## And the Fortune teller said...!
 
-> Even though the Camper walks through the valley of the shadow of PEs, he shall fear no evil, for #HHP is with him...!
+> Even though the Camper walks through the valley of the shadow of PEs, she shall fear no evil, for #HHP is with her...!
 
 
 ```javascript
 import { smile, dagger, skull, gem } from 'fortune-teller'
 
-const theCamper = Campers['#NMQ']
+const theCamper = Campers['coldsunshine.sj.bts']
   // The lucky charm enhances the brain, not replaces it, so...! :"}
   .with(skull('🧠'))
   .and(dagger.ofPower())
